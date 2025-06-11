@@ -1,5 +1,4 @@
-# 🌐 MERN-Final – Full Stack Web Application
-
+# 🌐mern-final
 A modular full-stack web application built using the **MERN** stack – **MongoDB**, **Express.js**, **React**, and **Node.js**. This project focuses on establishing a functional backend with API routing and MongoDB integration, along with a connected React frontend to reflect the backend features.
 
 ---
