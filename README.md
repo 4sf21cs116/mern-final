@@ -10,7 +10,6 @@ A modular full-stack web application built using the **MERN** stack – **MongoD
 - MongoDB integration with Mongoose for database operations
 - Organized routing and controller structure for scalable backend development
 - React-based frontend reflecting backend functionalities
-- Component-driven UI layout with basic structure
 - Clean separation between frontend and backend codebases
 
 ---
@@ -20,9 +19,8 @@ A modular full-stack web application built using the **MERN** stack – **MongoD
 - **Frontend:** React, JavaScript, CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB with Mongoose
-- **Architecture:** MVC-style backend structure with modular routing
 
 ---
 
-## 📁 Project Structure Overview
+
 
